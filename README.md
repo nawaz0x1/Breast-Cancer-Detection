@@ -61,4 +61,4 @@ The model achieves the following performance on the test set:
 - Implement cross-validation for more robust evaluation
 
 ## Sample
-![Breast Cancer Detection Results](https://i.ibb.co/F4rZcQv/breast-cancer-detection.png)
+![Breast Cancer Detection Results](https://i.postimg.cc/tgJKS50p/download.png)
